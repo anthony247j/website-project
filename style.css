@@ -1,0 +1,61 @@
+/*this a comment for my css.*/ 
+
+/* selector{
+    property value;
+}*/
+
+
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 70;
+}
+
+h3{
+    font-size: 42;
+}
+
+h1{
+    color:rgba(34, 70, 233, 0.836);
+}
+
+h2{
+    color:rgb(245, 42, 76) ;
+}
+
+h3{
+    color:rgb(204, 135, 7);
+}
+
+p{
+    color: black;
+}
+
+.bluetext{
+    color: blue
+}
+
+
+.goldtext{
+    color: gold
+}
+
+
+#menu{
+    background-color: rgb(221, 12, 30);
+    height: 70px;
+    border: 5px solid black;
+}
+
+.content{
+    width: 700px;
+    border: 10px black solid;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
